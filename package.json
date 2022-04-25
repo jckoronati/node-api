@@ -1,0 +1,8 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jckoronati/node-api.git",
+  "author": "Júlio Cezar Koronati <jckoronati@hotmail.com>",
+  "license": "MIT"
+}
