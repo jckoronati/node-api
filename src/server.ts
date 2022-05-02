@@ -1,5 +1,5 @@
-import express from "express";
-import { accountRoutes } from "./routes/account.routes";
+import express from 'express';
+import { accountRoutes } from './routes/account.routes';
 
 const app = express();
 
